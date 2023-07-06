@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a55a6be.css",
+    "main.js": "/static/js/main.ab21d381.js",
+    "static/js/787.4082b32c.chunk.js": "/static/js/787.4082b32c.chunk.js",
+    "static/media/Instructor and above.jpg": "/static/media/Instructor and above.57751b2f227668960658.jpg",
+    "static/media/face.jpg": "/static/media/face.3857df97fb50025858bb.jpg",
+    "static/media/logo.png": "/static/media/logo.efee90c776dac8012c35.png",
+    "static/media/Nitrox.jpg": "/static/media/Nitrox.f5b6cc774c606810ab19.jpg",
+    "static/media/logoonlypng.png": "/static/media/logoonlypng.59da96ba51a1ff2e958a.png",
+    "static/media/Rescue Back.jpg": "/static/media/Rescue Back.65dc4b606ddc2d30b3e2.jpg",
+    "static/media/divemaster.jpg": "/static/media/divemaster.a1adbb385d2146003d79.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/Advanced.jpg": "/static/media/Advanced.317bb12b2b212dfd510f.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/notfound.jpg": "/static/media/notfound.43e76afd3fa4bc6bd8b2.jpg",
+    "static/media/OWD.jpg": "/static/media/OWD.10ef3b500c1925a8eac0.jpg",
+    "static/media/logo only.jpg": "/static/media/logo only.fa2a0ce91eb20af69ee7.jpg",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/Word.jpg": "/static/media/Word.4341cba80a7eed874c34.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/user.png": "/static/media/user.9dc92b0a1003b149f6c9.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/index.html",
+    "main.6a55a6be.css.map": "/static/css/main.6a55a6be.css.map",
+    "main.ab21d381.js.map": "/static/js/main.ab21d381.js.map",
+    "787.4082b32c.chunk.js.map": "/static/js/787.4082b32c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a55a6be.css",
+    "static/js/main.ab21d381.js"
+  ]
+}
